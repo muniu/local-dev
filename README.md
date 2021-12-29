@@ -1,4 +1,4 @@
-# Local dev enviromnent
+# Local dev environment
 
 In this repo you will find docker compose files & makefiles to be used in a local development environment.
 
